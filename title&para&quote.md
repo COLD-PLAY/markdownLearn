@@ -17,7 +17,10 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
-# 等效于下面这个
+![alt text](file:///home/coldplay/Desktop/wifi.jpg
+  "title")
+
+# 等效于下面
 
 <h1>A First Level Header</h1>
 <h2>A Second Level Header</h2>
